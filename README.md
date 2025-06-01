@@ -20,3 +20,5 @@ caa-ll it testkey
   git remote -v
   now can send it
   git push -u origin master
+then copy the url andcan copy it anywhere
+ git clone https://github.com/Paul-Czembor/testhub
