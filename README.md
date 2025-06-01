@@ -24,3 +24,9 @@ eval "$(ssh-agent -s)"
   git push -u origin master
 then copy the url andcan copy it anywhere
  git clone https://github.com/Paul-Czembor/testhub
+ on X11 did all the above, THEN :
+    cd ~
+    mkdir trash
+    cd trash
+    git init
+    git clone...
