@@ -1,0 +1,12 @@
+total 880
+drwxr-xr-x 5 paul paul   4096 Jun  1 16:30 .
+drwxrwxr-x 5 paul paul   4096 May 30 19:21 ..
+-rw-rw-r-- 1 paul paul 857128 Apr 23  2023 fortune500.csv
+-rw-rw-r-- 1 paul paul   2848 Apr 23  2023 fred.ipynb
+drwxrwxr-x 3 paul paul   4096 Jun  1 16:31 git_test
+drwxrwxr-x 2 paul paul   4096 Apr 23  2023 .ipynb_checkpoints
+-rw-rw-r-- 1 paul paul   1343 Apr 24  2023 jupyter-notebook_tutorial.ipynb
+drwxr-xr-x 2 paul paul   4096 May 30 19:15 linkedin course
+-rw-rw-r-- 1 paul paul    576 Apr 23  2023 Untitled1.ipynb
+-rw-rw-r-- 1 paul paul    281 Apr 23  2023 untitled1.py
+-rw-rw-r-- 1 paul paul   2848 Apr 23  2023 Untitled.ipynb
