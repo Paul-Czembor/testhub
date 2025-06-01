@@ -8,6 +8,8 @@ git commit
 git status -s
 ssh-keygen -t ed25519 -C "pczembor@icloud.com"
 caa-ll it testkey
+eval "$(ssh-agent -s)"
+
  ssh-add testkey
  copy in key to github (ssh)
  cat testkey.pub
